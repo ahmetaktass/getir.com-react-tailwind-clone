@@ -22,3 +22,4 @@ Uygulamaya daha sonra Dark Mode özelliği eklemeyi planlıyorum. 1-2 Değişikl
 
 
 Uygulama içerisinde görmüş olduğunuz hata ve önerileriniz için iletişime geçmeniz benim için önemlidir.Kendimi gelişrirmek için bunlara ihtiyacım var. Güzel bir proje oldu şimdi sırada youtube var .. 
+![getir-web](https://user-images.githubusercontent.com/56774618/143317126-06efe8fe-01f1-4655-83a5-8927eb5367ae.png)
