@@ -1,5 +1,3 @@
-import './App.scss'
-
 import Header from './components/Header'
 import HeroSection from './components/HeroSection'
 import Categories from './components/Categories'
