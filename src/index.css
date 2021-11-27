@@ -22,5 +22,5 @@
   @apply text-sm pl-2;
 }
 .flag-select {
-  @apply py-0;
+  @apply py-1;
 }
